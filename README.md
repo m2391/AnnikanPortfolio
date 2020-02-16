@@ -1,2 +1,2 @@
 # AnnikanPortfolio
-Koulutehtävien esimerkkejä
+Tietojenkäsittely-tradenomin esimerkkitehviä.
