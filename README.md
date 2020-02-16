@@ -1,2 +1,2 @@
 # AnnikanPortfolio
-Tietojenkäsittely-tradenomin esimerkkitehviä.
+Tietojenkäsittelyn koulutehtäviä.
