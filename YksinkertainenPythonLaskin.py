@@ -1,5 +1,5 @@
 # -*- coding: cp1252 -*-
-# Varmistetaan, ett� k�ytt�j� antaa luvun
+# Varmistetaan, että käyttäjä antaa luvun
 def otanumero():
     while True:
         try:
